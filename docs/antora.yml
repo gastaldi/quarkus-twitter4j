@@ -1,0 +1,5 @@
+name: quarkus-twitter4j
+title: Quarkus - Twitter4j
+version: dev
+nav:
+  - modules/ROOT/nav.adoc
